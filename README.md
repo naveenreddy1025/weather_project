@@ -1,5 +1,5 @@
 <a href="https://github.com/naveenreddy1025/weather_project">
-  <img alt="Weather API." src="app/(chat)/opengraph-image.png">
+  <img alt="Weather API.">
   <h1 align="center">Weather API</h1>
 </a>
 
